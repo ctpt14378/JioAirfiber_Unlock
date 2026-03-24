@@ -33,12 +33,12 @@ Note: This list is still under review, the information in this table maybe be in
 
 | Firmware ID        | V2.0.9                                                                                | V2.0.16                                                            |
 | ------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ARCNJIO_JIDU6101_R | [Download](https://mega.nz/file/q9oURIQb#--QU1QC0MsjTGuY_jh0NIB0XVuEL5Qh7fsrgT34bGCM) |                                                                    |
-| GMOBJIO_JIDU6801_R | [Download](https://mega.nz/file/fhJi3BiZ#Dp_WtubqyFGhrk33rYGgdKgQUw7ax0FmUHaisNYmyd8) | [Download](https://mega.nz/folder/31YTlSbI#Ar-aQK605GZqI_1zc_PZtw) |
-| SPEDJIO_JIDU6601_R | [Download](https://mega.nz/file/T5g03aLZ#AGr7fBJDbpa0dLXrL-bAdALjEBgAT1wVzL7ncA0RJq8) |                                                                    |
-| SRCMJIO_JIDU6401_R | [Download](https://mega.nz/file/Pkh0SbpB#kBpW7ls7Y2GJ7Y47DmgzzHNd-OCBSEBUoMblwyovp_E) |                                                                    |
-| SKYWJIO_JIDU6701_R | [Download](https://mega.nz/file/LgYkUTBJ#btKP77FlbvokfYR0mmBQCQEtCoLaAkIqjt7SpdKoiBI) |                                                                    |
+| ARCNJIO_JIDU6101_R | [Download](https://mega.nz/file/jwIgRKYR#--QU1QC0MsjTGuY_jh0NIB0XVuEL5Qh7fsrgT34bGCM) |                                                                    |
+| GMOBJIO_JIDU6801_R | [Download](https://mega.nz/file/KgxGyBiD#Dp_WtubqyFGhrk33rYGgdKgQUw7ax0FmUHaisNYmyd8) | [Download](https://mega.nz/folder/b8gkEZqL#jnUCRPWReJPH0X80IM1cXQ) |
+| SPEDJIO_JIDU6601_R | [Download](https://mega.nz/file/LoZRXY7I#AGr7fBJDbpa0dLXrL-bAdALjEBgAT1wVzL7ncA0RJq8) |                                                                    |
+| SRCMJIO_JIDU6401_R | [Download](https://mega.nz/file/vshSXRBS#kBpW7ls7Y2GJ7Y47DmgzzHNd-OCBSEBUoMblwyovp_E) |                                                                    |
+| SKYWJIO_JIDU6701_R | [Download](https://mega.nz/file/v4YgBTTB#btKP77FlbvokfYR0mmBQCQEtCoLaAkIqjt7SpdKoiBI) |                                                                    |
 
 | Firmware ID              | Links                                                                                 | Notes                    |
 | ------------------------ | ------------------------------------------------------------------------------------- | ------------------------ |
-| JODU52041_REL_02_32_00_S | [Download](https://mega.nz/file/nsAwwDjT#Tme3W2k8VCRAB7b99L1wI0NVxwrBHB0_bJ51Ck2i0JQ) | ❌Locked FW, DO NOT FLASH |
+| JODU52041_REL_02_32_00_S | [Download](https://mega.nz/file/v4By0aST#Tme3W2k8VCRAB7b99L1wI0NVxwrBHB0_bJ51Ck2i0JQ) | ❌Locked FW, DO NOT FLASH |

@@ -9,3 +9,9 @@ extracted_backup/
 
 # Ignore obsidian files 
 .obsidian
+
+# Ignore large virtual machine and archive files
+*.7z
+*.vmdk
+*.ova
+*.iso

@@ -33,7 +33,7 @@ To begin, you will need to clone the project repository down to your machine and
 
 ```bash
 git clone https://github.com/abhigyan17/JioAirfiber_Unlock.git
-cd JioAirfiber_Unlock/Oktopus_TR369_Extractor
+cd JioAirfiber_Unlock/TR369_Extractor
 npm install
 ```
 

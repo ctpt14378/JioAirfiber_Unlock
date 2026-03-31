@@ -8,7 +8,7 @@ When you run it, you will be greeted by a clean interface featuring an interacti
 
 Let me explain the two different ways you can get this application running on your system.
 
-The first method is using Docker Compose, which is the absolute easiest and our most recommended path. Using Docker means you do not have to worry about downloading local dependencies or installing browser binaries directly onto your computer.
+The first method is using Docker Compose, which is the absolute easiest and our most recommended path. Using Docker means you do not have to worry about downloading local dependencies or installing browser binaries directly onto your computer. You can directly locate the official Docker Hub public repository at https://hub.docker.com/r/hacksmith/tr369-fetcher if you need to manually inspect or pull the image structure.
 
 The only things you require are Docker Engine and Docker Compose. Once you have those installed, simply open your favorite text editor, create a blank file named docker-compose.yml anywhere on your computer, and paste the following block of code into it.
 

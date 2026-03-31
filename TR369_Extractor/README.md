@@ -1,5 +1,7 @@
 Oktopus TR-369 Payload Extractor
 
+<img src="./demo.webp" width="100%" alt="GUI Demo animation displaying particle physics interface">
+
 Welcome to the Oktopus TR-369 Payload Extractor. We built this tool because manually clicking through the Oktopus management platform to gather device parameter data takes a huge amount of time. This application acts like an automated assistant that opens a browser for you, carefully navigates through all those deeply nested folders, and patiently extracts every single piece of information it can find.
 
 When you run it, you will be greeted by a clean interface featuring an interactive particle background. It is designed to look very modern while doing all the heavy lifting behind the scenes so that you do not have to.

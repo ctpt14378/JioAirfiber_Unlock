@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/imgNotification" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerInside" />
+    <ProgressBar android:id="@id/imgProgressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="?progressBarStyle" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentEnd="true">
+        <ImageView android:gravity="center" android:layout_gravity="end" android:id="@id/closeIconTime" android:visibility="gone" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginTop="15.0dip" android:src="@drawable/ic_close" android:layout_marginEnd="15.0dip" />
+        <TextView android:textSize="12.0sp" android:gravity="center" android:layout_gravity="right" android:id="@id/time" android:background="@drawable/textview_circle" android:padding="5.0dip" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_marginTop="15.0dip" android:layout_marginEnd="15.0dip" />
+    </LinearLayout>
+</RelativeLayout>

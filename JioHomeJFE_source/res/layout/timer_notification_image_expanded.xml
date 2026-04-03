@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/smallContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:layout_toLeftOf="@id/musicContainer">
+        <LinearLayout android:orientation="vertical" android:id="@id/body" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.75">
+            <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff231f20" android:id="@id/titleTV" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Not Ramaiya Vastavaiya (From “Jawan”)" />
+            <TextView android:textSize="14.0sp" android:textColor="#ff707070" android:id="@id/bodyTV" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Anirudh Ravichander,Irshad Kamil" android:maxLines="2" />
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:id="@id/musicContainer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_alignParentRight="true">
+        <Chronometer android:textSize="18.0sp" android:textColor="#ffff3066" android:id="@id/timerTV" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00/00:00" />
+    </RelativeLayout>
+    <ImageView android:id="@id/imageIV" android:background="@drawable/bg_shape_white" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_margin="4.0dip" android:scaleType="fitXY" android:layout_below="@id/smallContainer" />
+</RelativeLayout>

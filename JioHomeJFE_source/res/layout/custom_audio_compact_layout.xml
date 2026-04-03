@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/smallContainer" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/body" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.75">
+            <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ff231f20" android:id="@id/titleTV" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip" android:text="Not Ramaiya Vastavaiya (From “Jawan”)" />
+            <TextView android:textSize="14.0sp" android:textColor="#ff707070" android:id="@id/bodyTV" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Anirudh Ravichander,Irshad Kamil" />
+        </LinearLayout>
+        <ImageView android:id="@id/mediaIv" android:layout_width="50.0dip" android:layout_height="50.0dip" />
+    </LinearLayout>
+</RelativeLayout>

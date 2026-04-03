@@ -1,0 +1,36 @@
+.class public final synthetic Lcom/jio/esimprovisioning/presentation/view/activity/qd;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Landroid/view/View$OnClickListener;
+
+
+# instance fields
+.field public final synthetic a:Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;)V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/jio/esimprovisioning/presentation/view/activity/qd;->a:Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onClick(Landroid/view/View;)V
+    .locals 1
+
+    .line 1
+    iget-object v0, p0, Lcom/jio/esimprovisioning/presentation/view/activity/qd;->a:Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;
+
+    invoke-static {v0, p1}, Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;->z(Lcom/jio/esimprovisioning/presentation/view/activity/ONTCameraScreen;Landroid/view/View;)V
+
+    return-void
+.end method

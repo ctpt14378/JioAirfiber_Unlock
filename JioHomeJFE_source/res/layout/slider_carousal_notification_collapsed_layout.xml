@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:weightSum="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="0.9">
+        <TextView android:id="@id/tv_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextAppearance.Compat.Notification.Title" />
+        <TextView android:textSize="14.0sp" android:id="@id/tv_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextAppearance.Compat.Notification.Info" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="center" android:id="@id/iv_largeIconImage" android:layout_width="0.0dip" android:layout_height="30.0dip" android:layout_weight="0.1" />
+</LinearLayout>

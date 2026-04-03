@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/layout" android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/collapseImgView" android:layout_width="35.0dip" android:layout_height="35.0dip" android:layout_alignParentLeft="true" />
+    <TextView android:id="@id/text_view_collapsed_1" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/collapseImgView" style="@style/TextAppearance.Compat.Notification.Title" />
+    <TextView android:id="@id/text_view_collapsed_2" android:paddingLeft="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/collapseImgView" android:layout_below="@id/text_view_collapsed_1" style="@style/TextAppearance.Compat.Notification.Info" />
+</RelativeLayout>

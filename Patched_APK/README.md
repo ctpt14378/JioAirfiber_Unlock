@@ -35,5 +35,4 @@ After installation, launch the app from the app drawer. The patched version bypa
 - YouTube Channel: https://www.youtube.com/@its-htz
 - Discord Server: https://discord.gg/Pk473Ccyw
 
----
-*Generated automatically by the testing workflow.*
+
